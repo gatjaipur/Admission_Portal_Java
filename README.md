@@ -1,0 +1,2 @@
+# Admission_Portal_Java
+Allows the students to apply for admission at create their login ids by registration on the portal. Also, it will declare the result and if student got the admission then the designated branch offered to him according to his preferences and cutoff marks for the particular branch.He can also check the Status of application submitted anytime by logging into the portal with his credentials.
